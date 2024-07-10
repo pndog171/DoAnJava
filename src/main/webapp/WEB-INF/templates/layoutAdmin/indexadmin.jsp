@@ -57,12 +57,6 @@ Coded by www.creative-tim.com
         </div>
         <div class="sidebar-wrapper">
             <ul class="nav">
-                <li class=" ">
-                    <a href="/Admin/Views">
-                        <i class="nc-icon nc-bank"></i>
-                        <p>Dashboard</p>
-                    </a>
-                </li>
                 <li>
                     <a href="/Admin/Category">
                         <i class="nc-icon nc-tile-56"></i>
@@ -79,31 +73,6 @@ Coded by www.creative-tim.com
                     <a href="/Admin/Account">
                         <i class="nc-icon nc-tile-56"></i>
                         <p>List Account</p>
-                    </a>
-                </li>
-                <li>
-                    <a href="./map.html">
-                        <i class="nc-icon nc-pin-3"></i>
-                        <p>Maps</p>
-                    </a>
-                </li>
-                <li>
-                    <a href="./notifications.html">
-                        <i class="nc-icon nc-bell-55"></i>
-                        <p>Notifications</p>
-                    </a>
-                </li>
-
-                <li>
-                    <a href="./typography.html">
-                        <i class="nc-icon nc-caps-small"></i>
-                        <p>Typography</p>
-                    </a>
-                </li>
-                <li class="active-pro">
-                    <a href="./upgrade.html">
-                        <i class="nc-icon nc-spaceship"></i>
-                        <p>Upgrade to PRO</p>
                     </a>
                 </li>
             </ul>

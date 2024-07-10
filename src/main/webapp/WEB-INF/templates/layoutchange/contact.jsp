@@ -5,7 +5,7 @@
     <meta name="author" content="">
     <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&display=swap" rel="stylesheet">
 
-    <title>Sixteen Clothing - Contact Page</title>
+    <title>Contact Page</title>
 
     <!-- Bootstrap core CSS -->
     <link href="/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -29,8 +29,7 @@ https://templatemo.com/tm-546-sixteen-clothing
         <div class="row">
           <div class="col-md-12">
             <div class="text-content">
-              <h4>contact us</h4>
-              <h2>let’s get in touch</h2>
+              <h2>Contact us</h2>
             </div>
           </div>
         </div>

@@ -97,7 +97,7 @@ a.filled-button:hover {
 }
 
 .contact-heading {
-	background-image: url(../images/contact-heading.jpg);
+	background-image: url(../images/contact-heading.png);
 }
 
 .page-heading {
@@ -326,7 +326,7 @@ header .navbar {
 
 .banner-item-02 {
 	padding: 300px 0px;
-	background-image: url(../images/background.png);
+	background-image: url(https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=1200,height=675/catalog/crunchyroll/346b3eac4f8bb50aa405981d242cae82.jpe);
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center center;
@@ -334,7 +334,7 @@ header .navbar {
 
 .banner-item-03 {
 	padding: 300px 0px;
-	background-image: url(../images/background.png);
+	background-image: url(https://cellphones.com.vn/sforum/wp-content/uploads/2023/07/Blue-Archive-1.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center center;

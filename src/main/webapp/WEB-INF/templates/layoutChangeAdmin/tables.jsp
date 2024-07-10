@@ -76,7 +76,7 @@
                                                     ${item.name}
                                             </td>
                                             <td>
-                                                <img  style="width: 70px;height: 40px" src="/static/upload/${item.image}"/>
+                                                <img  style="width: 70px;height: 40px" src="${item.image}"/>
                                             </td>
                                             <td>
                                                     ${item.createDate}
@@ -163,7 +163,7 @@
                                     <div class="card-body">
                                         <div class="author">
                                             <a href="#">
-                                                <img class="avatar border-gray" src="/static/upload/${item.image}" alt="...">
+                                                <img class="avatar border-gray" src="${item.image}" alt="...">
                                                 <h5 class="title">Chet Faker</h5>
                                             </a>
                                             <p class="description">

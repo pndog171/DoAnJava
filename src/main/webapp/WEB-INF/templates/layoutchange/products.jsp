@@ -7,7 +7,7 @@
     <meta name="author" content="">
     <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&display=swap" rel="stylesheet">
 
-    <title>Sixteen Clothing Products</title>
+    <title>Products</title>
 
     <!-- Bootstrap core CSS -->
     <link href="/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -32,8 +32,8 @@ https://templatemo.com/tm-546-sixteen-clothing
         <div class="row">
           <div class="col-md-12">
             <div class="text-content">
-              <h4>new arrivals</h4>
-              <h2>sixteen products</h2>
+              <h4><font color="#3361FF">new arrivals</font></h4>
+              <h2><font color="#01040E">new products</font></h2>
             </div>
           </div>
         </div>
@@ -79,14 +79,14 @@ https://templatemo.com/tm-546-sixteen-clothing
             <c:forEach var="item" items="${page.content}">
                 <div class="col-3">
                     <div class="product-item">
-                        <a href="#"><img src="/static/upload/${item.image}" alt=""></a>
+                        <a href="#"><img src="${item.image}" alt=""></a>
                         <div class="down-content">
                             <a href="#"><h4>${item.name}</h4></a>
                             <a> $${item.price}</a>
                             <br>
                             <h7>Reduced : $${item.price*(100-item.discount)*0.01}</h7>
 
-                            <p>The product from Chelsea Football Club</p>
+                            <p>The product from Skibidi Merch Store</p>
                             <ul class="stars">
                                 <li><i class="fa fa-star"></i></li>
                                 <li><i class="fa fa-star"></i></li>
@@ -131,7 +131,7 @@ https://templatemo.com/tm-546-sixteen-clothing
         <div class="row">
           <div class="col-md-12">
             <div class="inner-content">
-              <p>Copyright &copy; 2020 Sixteen Clothing Co., Ltd.
+              <p>Copyright &copy; 2024 Skibidi Merch Store Co., Ltd.
             
             - Design: <a rel="nofollow noopener" href="https://templatemo.com" target="_blank">TemplateMo</a></p>
             </div>

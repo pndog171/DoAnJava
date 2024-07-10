@@ -50,7 +50,7 @@ https://templatemo.com/tm-546-sixteen-clothing
             </div>
             <div class="col-md-6">
                 <div class="right-image">
-                    <img src="/static/upload/${item.image}" alt="">
+                    <img src="${item.image}" alt="">
                 </div>
             </div>
             <div class="col-md-6">

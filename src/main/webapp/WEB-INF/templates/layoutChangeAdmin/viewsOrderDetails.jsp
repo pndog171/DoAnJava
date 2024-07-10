@@ -135,7 +135,7 @@
                             <th scope="row">${item.id}</th>
                             <td>${item.order.id}</td>
                             <td>${item.product.name}</td>
-                            <td><img src="/static/upload/${item.product.image}"/></td>
+                            <td><img src="${item.product.image}"/></td>
                             <td>${item.price}</td>
                             <td>${item.quantity}</td>
                         </tr>

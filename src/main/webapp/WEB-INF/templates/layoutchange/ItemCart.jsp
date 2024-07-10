@@ -7,7 +7,7 @@
     <meta name="author" content="">
     <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&display=swap" rel="stylesheet">
 
-    <title>Sixteen Clothing - About Page</title>
+    <title>About Page</title>
 
     <!-- Bootstrap core CSS -->
     <link href="/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -63,7 +63,7 @@
                     <tr>
                         <td>${no}</td>
                         <td><a href="/user/add/${item.id}">${item.name}</a></td>
-                        <td><img style="width: 100px;height: 60px" src="/static/upload/${item.image} "></td>
+                        <td><img style="width: 100px;height: 60px" src="${item.image} "></td>
                         <td><input type="hidden" name="id" value="${item.id}">
                             <input type="number" value="${item.quantity}" name="quantity" onblur="this.form.submit()"></td>
                         </td>

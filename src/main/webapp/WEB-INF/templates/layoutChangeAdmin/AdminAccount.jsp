@@ -29,6 +29,8 @@
 
                                 <thead class=" text-primary">
                                 <th>
+                                </th>
+                                <th>
                                     ID
                                 </th>
                                 <th>
@@ -47,16 +49,13 @@
                                     Address
                                 </th>
                                 <th>
-                                    Images
+                                    Image
                                 </th>
                                 <th>
                                     Phone
                                 </th>
-                                <th>
-                                    Price
-                                </th>
                                 <th class="text-right">
-                                    Edit
+                                    Admin
                                 </th>
                                 </thead>
                                 <c:forEach var="item"  items="${page.content}" >

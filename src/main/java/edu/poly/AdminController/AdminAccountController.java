@@ -47,7 +47,7 @@ public class AdminAccountController {
                     if(user.isAdmin()){
                         model.addAttribute("message", "Login succeed");
                         session.set("user", user);
-                        return "redirect:/Admin/Views";
+                        return "redirect:/Admin/Account";
                     }else {
                         model.addAttribute("message", "Login succeed");
                         session.set("user", user);

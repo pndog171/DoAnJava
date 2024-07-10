@@ -88,7 +88,7 @@ https://templatemo.com/tm-546-sixteen-clothing
                                 <c:forEach var="item" items="${items}">
                                     <tr>
                                         <th scope="row">${item.id}</th>
-                                      <td> <img src="/static/upload/${item.product.image}" width="50px" height="50px"/> </td>
+                                      <td> <img src="${item.product.image}" width="50px" height="50px"/> </td>
                                         <td>${item.product.name}</td>
                                         <td>${item.price}</td>
                                         <td>${item.quantity}</td>

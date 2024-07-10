@@ -50,7 +50,7 @@ https://templatemo.com/tm-546-sixteen-clothing
             <c:forEach var="item" items="${page.content}">
                 <div class="col-md-3">
                     <div class="product-item">
-                        <a href="#"><img src="/static/upload/${item.image}" alt=""></a>
+                        <a href="#"><img src="${item.image}" alt=""></a>
                         <div class="down-content">
                             <a href="#"><h4>${item.name}</h4></a>
                             <a> $${item.price}</a>
