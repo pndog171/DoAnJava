@@ -1,11 +1,5 @@
 <link href="/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-<!--
 
-TemplateMo 546 Sixteen Clothing
-
-https://templatemo.com/tm-546-sixteen-clothing
-
--->
 
 <!-- Additional CSS Files -->
 <link rel="stylesheet" href="/assets/css/fontawesome.css">
@@ -41,8 +35,8 @@ https://templatemo.com/tm-546-sixteen-clothing
                 <div class="inner-content">
                     <p>Copyright &copy; 2024 Skibidi Merch Store Co., Ltd.
 
-                        - Design: <a rel="nofollow noopener" href="https://templatemo.com" target="_blank">TemplateMo</a></p>
-                    <a href="?lang=vi">Tiếng việt</a>
+                        - Design: <a rel="nofollow noopener" href="https://templatemo.com" target="_blank"></a></p>
+                    <a href="?lang=vi">Vietnamese</a>
                     <a href="?lang=en">English</a>
                 </div>
             </div>
