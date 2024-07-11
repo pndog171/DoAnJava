@@ -79,7 +79,7 @@ https://templatemo.com/tm-546-sixteen-clothing
                                 <div class="col-4">
                                     <div class="form-group">
                                         <label>Old password</label>
-                                        <input type="search" class="form-control" value="${old}" id="old" name="old" placeholder="Name Product" aria-label="Recipient's username" aria-describedby="button-addon2" >
+                                        <input type="password" class="form-control" value="${old}" id="old" name="old" placeholder="" aria-label="Recipient's username" aria-describedby="button-addon2" >
                                     </div>
                                 </div>
                                 <div class="col-4">
@@ -97,7 +97,7 @@ https://templatemo.com/tm-546-sixteen-clothing
                                 <div class="col-4">
                                     <div class="form-group">
                                         <label>New password</label>
-                                        <input type="search" class="form-control" value="${newp}" id="newp" name="newp" placeholder="Name Product" aria-label="Recipient's username" aria-describedby="button-addon2" >
+                                        <input type="password" class="form-control" value="${newp}" id="newp" name="newp" placeholder="" aria-label="Recipient's username" aria-describedby="button-addon2" >
                                     </div>
                                 </div>
                                 <div class="col-4">
@@ -160,7 +160,7 @@ https://templatemo.com/tm-546-sixteen-clothing
                                 <div class="row">
                                     <div class="create ml-auto mr-auto">
                                         <form:button type="submit" class="btn btn-primary btn-round ml-4" >Update</form:button>
-                                        <button type="submit" class="btn btn-primary btn-round " formaction="/Home/account/change/save">Update </button>
+                                        <button type="submit" class="btn btn-primary btn-round " formaction="/Home/account/change/save"></button>
                                     </div>
                                     <div class="update ml-auto mr-auto">
 
